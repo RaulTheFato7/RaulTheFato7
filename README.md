@@ -15,15 +15,13 @@
 ---
 
 ### ⚡ Resumo da Ópera
-Sou estudante de **Ciência da Computação** na UNINTER. Meu negócio é **Backend**: resolver problemas complexos e entregar código limpo enquanto bebo café.
 
-Tenho background em **liderança de equipes**, o que significa que sei codar, mas também sei conversar, alinhar expectativas e resolver B.O. sem surtar.
+Sou estudante de **Ciência da Computação** na UNINTER e meu foco é o **Backend** (onde a mágica acontece longe dos olhos do usuário). 
 
-🎯 **Meta:** Estágio em Java/Backend para aplicar Clean Architecture e crescer junto com o time.
+Antes de dar `git push` em códigos, eu liderei equipes e gerenciei atendimento. **O que isso significa?**
+Que eu não sou só um dev que escreve código; eu entendo de **pessoas, prazos e resolução de conflitos**. Minha transição de carreira me deu um "superpoder": a comunicação assertiva e a calma para resolver B.O. sob pressão.
 
----
-
-### 🧰 Meu Arsenal
+🎯 **Objetivo:** Caçando minha primeira vaga de **Estágio** para colocar a mão na massa, quebrar a cabeça com Clean Architecture e ver meu código rodando em produção.
 
 <div align="center">
   <br/>
