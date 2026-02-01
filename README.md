@@ -41,8 +41,11 @@ Que eu não sou só um dev que escreve código; eu entendo de **pessoas, prazos 
 
 ### 🧠 Foco de Estudos e Competências Técnicas:
 • Linguagens: Java(Foco principal), Python (básico), SQL (Postgres)
+
 • Ecossistema Spring: Spring Boot 3, MVC, Security, Data JDBC/JPA, Rest client, Web, Validation
+
 • Infraestrutura, Cloud e tools: IntelliJ IDEA, VS Code, AWS: EC2, S3, RDS, IAM, Git/Github, Docker, Maven, FlyWay, Postman
+
 • Conceitos: API Restful, Consumo de APIs, Clean Code, Clean Architecture, Mapeamento JSON(JACKSON), Noções de Deploy e ambientes Cloud
 
 ---
