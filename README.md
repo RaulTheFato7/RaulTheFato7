@@ -61,12 +61,3 @@ Estou constantemente aprimorando meu código através de:
 *   **Qualidade:** Clean Code, Validações.
 *   **Cloud Services:** AWS (EC2, S3, RDS, IAM).
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulTheFato7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulTheFato7&layout=compact&theme=dracula&langs_count=8"/>
-</div>
--->
