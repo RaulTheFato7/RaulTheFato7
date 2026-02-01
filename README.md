@@ -1,14 +1,11 @@
 <div align="center">
 
-  <h1>Faalaaaa!! Raul aqui e uma breve introdução sobre mim!</h1>
+  <h1>Faalaaaa!! Raul aqui e uma breve introdução sobre mim!🤓</h1>
   <h3>Backend Developer | Java | Computer Science Student</h3>
   
   <p>
     <a href="https://www.linkedin.com/in/raul-vitorio-dev/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="raulvitorio790@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
