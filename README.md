@@ -1,60 +1,71 @@
 <div align="center">
-
-  <h1>Faalaaaa!! Raul aqui e uma breve introdução sobre mim!🤓</h1>
-  <h3>Backend Developer | Java | Computer Science Student</h3>
   
+  <img src="https://media.giphy.com/media/WFmjWifrj9DJ50eXN6/giphy.gif" width="120" />
+  
+  <h1>E aí, eu sou o Raul! 🤓</h1>
+  <h3>Backend Dev | Java | Computer Science Student</h3>
+
   <p>
     <a href="https://www.linkedin.com/in/raul-vitorio-dev/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
 </div>
 
+---
 
-### 🚀 Sobre Mim
-Apaixonado por tecnologia e resolução de problemas lógicos. Atualmente, curso **Ciência da Computação na UNINTER** e dedico meus estudos ao desenvolvimento **Backend** com ecossistema Java.
+### ⚡ Resumo da Ópera
+Sou estudante de **Ciência da Computação** na UNINTER focado no que acontece "por trás dos panos" (Backend).
 
-💼 **Diferencial Profissional:** Possuo uma bagagem sólida em gestão de equipes e atendimento ao cliente. Trago para a Engenharia de Software soft skills essenciais que já desenvolvi, como:
-*   Liderança e Gestão de Conflitos
-*   Comunicação Assertiva
-*   Trabalho sob pressão
+Antes do código, liderei equipes e gerenciei crises. **O que isso muda?**
+Muda que eu tenho a **calma** e a **comunicação** que faltam em muitos devs. Sei resolver B.O. técnico sem criar B.O. humano.
 
-🎯 **Objetivo:** Busco minha primeira oportunidade como **Estagiário** para aplicar conhecimentos em Clean Code, Arquitetura de Software e Cloud.
+🎯 **Meta Atual:** Buscando vaga de **Estágio** para aplicar Clean Architecture, quebrar a cabeça com bugs reais e evoluir na carreira.
 
 ---
 
-### 🛠️ Tech Stack
-Aqui estão as tecnologias e ferramentas que utilizo no meu dia a dia:
+### 🧰 Meu Arsenal (Tech Stack)
 
 <div align="center">
+  
+  <!-- LINHA 1: LINGUAGEM PRINCIPAL -->
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <br/>
 
-  <h4>Linguagens</h4>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <!-- LINHA 2: FRAMEWORKS -->
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring_security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <br/>
 
-  <h4>Spring Ecosystem & Frameworks</h4>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+  <!-- LINHA 3: INFRA & DADOS -->
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <br/>
 
-  <h4>Infra, Cloud & Tools</h4>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
+  <!-- LINHA 4: FERRAMENTAS -->
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
 
 </div>
 
 ---
 
-### 📚 Conceitos & Estudos Atuais
-Estou constantemente aprimorando meu código através de:
-*   **Arquitetura:** Clean Architecture, MVC, Design Patterns (Strategy, Factory, Observer).
-*   **APIs:** RESTful API Design, Consumo de APIs, Jackson (JSON).
-*   **Qualidade:** Clean Code, Validações.
-*   **Cloud Services:** AWS (EC2, S3, RDS, IAM).
+### 🧠 O foco agora é:
+Não basta funcionar, tem que ser limpo. Meus estudos atuais focam em:
 
+*   ☕ **Arquitetura de verdade:** Clean Architecture e Design Patterns (Strategy, Factory, Observer).
+*   🌐 **APIs Robustas:** RESTful, Mapeamento JSON (Jackson) e Validações.
+*   ☁️ **Nuvem:** Deploy na AWS (EC2/S3) e Containerização.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaulTheFato7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulTheFato7&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&hide=python,html,css" height="160"/>
+</div>
