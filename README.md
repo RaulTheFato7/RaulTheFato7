@@ -1,7 +1,5 @@
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/WFmjWifrj9DJ50eXN6/giphy.gif" width="120" />
-  
+
   <h1>E aí, eu sou o Raul! 🤓</h1>
   <h3>Backend Dev | Java | Computer Science Student</h3>
 
@@ -64,8 +62,3 @@ Não basta funcionar, tem que ser limpo. Meus estudos atuais focam em:
 *   ☁️ **Nuvem:** Deploy na AWS (EC2/S3) e Containerização.
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaulTheFato7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulTheFato7&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&hide=python,html,css" height="160"/>
-</div>
