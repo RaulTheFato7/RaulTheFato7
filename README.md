@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>E aí, eu sou o Raul! 🤓</h1>
+  <h1>Faala! Eu sou o Raul!! 🤓</h1>
   <h3>Backend Dev | Java | Computer Science Student</h3>
 
   <br/>
@@ -39,9 +39,10 @@ Que eu não sou só um dev que escreve código; eu entendo de **pessoas, prazos 
 
 ---
 
-### 🧠 O que estou estudando
-*   **Arquitetura:** Clean Architecture & Design Patterns.
-*   **Qualidade:** Testes unitários e Clean Code.
-*   **Ops:** Aprofundando em AWS e CI/CD.
+### 🧠 Foco de Estudos e Competências Técnicas:
+• Linguagens: Java(Foco principal), Python (básico), SQL (Postgres)
+• Ecossistema Spring: Spring Boot 3, MVC, Security, Data JDBC/JPA, Rest client, Web, Validation
+• Infraestrutura, Cloud e tools: IntelliJ IDEA, VS Code, AWS: EC2, S3, RDS, IAM, Git/Github, Docker, Maven, FlyWay, Postman
+• Conceitos: API Restful, Consumo de APIs, Clean Code, Clean Architecture, Mapeamento JSON(JACKSON), Noções de Deploy e ambientes Cloud
 
 ---
