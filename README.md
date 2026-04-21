@@ -40,22 +40,7 @@ Atualmente, aplico essa maturidade profissional no desenvolvimento de software, 
 * Configuração de múltiplos ambientes (dev/test/prod) através de **Spring Profiles**.
 
 ### For You Concept - Projeto Real
-[Acessar Repositório](https://github.com/RaulTheFato7)
 * Desenvolvimento para e-commerce de moda em ambiente de produção.
 * Resolução de falhas críticas de responsividade e otimização de interface utilizando CSS avançado.
 
 ---
-
-## Estatísticas de Desenvolvimento
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulTheFato7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulTheFato7&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-```
-
----
-
-Essa abordagem transmite muito mais seriedade e foca no que realmente importa: sua capacidade técnica e sua experiência prévia com gestão. 
-
-Qualquer outro ajuste, estou à disposição. Melhoras da gripe!
